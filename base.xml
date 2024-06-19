@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- 
+  Please see the license.html file included with this distribution for 
+  attribution and copyright information.
+-->
+
+<root version="1.0" release="1.0" logo="logo.png">
+	<announcement text="This is a basic reusable template for Fantasy Grounds rulessets" font="emotefont" icon="rulesetlogo_CoreRPG" />
+
+	<!-- Attributes -->
+	<description>
+		<displayname>fantasy-grounds-ruleset-template</displayname>
+		<text>fantasy-grounds-ruleset-template</text>
+		<author>Clive Corbishley</author>
+	</description>
+
+	<!-- CoreRPG ruleset -->
+	<importruleset source="CoreRPG" />
+</root>
